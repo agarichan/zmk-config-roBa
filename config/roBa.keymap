@@ -68,7 +68,7 @@
         default_layer {
             bindings = <
 &kp Q             &kp W         &kp E             &kp R                      &kp T                                                        &kp Y        &kp U  &lt 5 I    &kp O    &lt 5 P
-&kp A             &kp S         &kp D             &kp F                      &kp G        &kp LC(LS(LG(NUMBER_4)))         &kp SQT        &kp H        &kp J  &kp K      &kp L    &kp SEMICOLON
+&kp A             &kp S         &kp D             &kp F                      &kp G        &kp LC(LS(LG(NUMBER_4)))         &kp SQT        &kp H        &kp J  &kp K      &lt 5 L  &kp SEMICOLON
 &mt LEFT_SHIFT Z  &kp X         &kp C             &kp V                      &kp B        &kp LANG2                        &kp LANG1      &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp LCTRL         &kp LEFT_ALT  &kp LEFT_COMMAND  &mt LEFT_SHIFT LANGUAGE_2  &lt 2 SPACE  &lt_to_layer_0 3 LANGUAGE_1      &kp BACKSPACE  &lt 1 ENTER                             &kp DEL
             >;
@@ -78,7 +78,7 @@
 
         SYMBOL {
             bindings = <
-&trans  &trans  &trans  &trans  &kp HASH                                &kp AMPERSAND   &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp F5
+&trans  &trans  &trans  &trans  &kp HASH                                &kp CARET       &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp F5
 &trans  &trans  &trans  &trans  &kp AT_SIGN      &none       &kp GRAVE  &kp EQUAL       &kp MINUS     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE
 &trans  &trans  &trans  &trans  &kp EXCLAMATION  &trans      &kp TILDE  &kp UNDERSCORE  &kp PLUS      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp NON_US_BACKSLASH
 &trans  &trans  &trans  &trans  &trans           &trans      &trans     &trans                                                                     &kp F12
